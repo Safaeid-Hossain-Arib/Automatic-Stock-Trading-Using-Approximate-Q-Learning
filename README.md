@@ -23,4 +23,4 @@ Our code is an updated version of this repository: https://github.com/Konstantin
 
 
 Project Partner:
-* ![image](https://user-images.githubusercontent.com/44209638/191274514-1d72d069-07a3-4dee-9db5-8851dd703d31.png)[Safaeid Hossain Arib](https://github.com/Safaeid48)
+* ![image](https://user-images.githubusercontent.com/55408525/193142738-81ea5c3f-8144-4b87-b3fd-8b3e99059d9b.png)[Rabeya Akter](https://github.com/rabeya-akter)
